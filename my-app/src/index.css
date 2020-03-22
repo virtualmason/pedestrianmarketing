@@ -1,0 +1,25 @@
+ /* s */
+/* .nav-logo {
+  float: left !important;
+  margin-top: -15px !important;
+} */
+/* 
+.navbar-brand {
+  display: flex;
+  align-items: center;
+}
+.navbar-brand>img {
+  padding: 7px 14px;
+} */
+
+/* .imgTop {
+  width: 400px;
+  height: 300px;
+} */
+.text-center{
+  text-align: center;
+}
+
+body {
+  background: black
+}
